@@ -19,29 +19,29 @@ This Power BI dashboard provides a comprehensive analysis of sales transactions,
                                                   📊 Key Insights:
 🔹 🏆 Top Performing Product Brands:
 
-🥇 Hermano, 🥈 Tell Tale, and 🥉 Ebony lead in total transactions, contributing significantly to overall sales.
+    🥇 Hermano, 🥈 Tell Tale, and 🥉 Ebony lead in total transactions, contributing significantly to overall sales.
 
-ADJ and Quick have the highest profit margins 💰.
+    ADJ and Quick have the highest profit margins 💰.
 
 🔹 🌍 Regional Sales Breakdown:
 
-USA dominates with 181K transactions 📊.
+    USA dominates with 181K transactions 📊.
 
-Mexico follows with 73K transactions, while  Canada lags behind at 16K 🚀.
+    Mexico follows with 73K transactions, while  Canada lags behind at 16K 🚀.
 
-Canada presents a growth opportunity due to lower sales.
+    Canada presents a growth opportunity due to lower sales.
 
 🔹 💵 Profit and Returns Analysis:
 
-Monthly profit is stable at $1.05M, meeting the goal ✅.
+    Monthly profit is stable at $1.05M, meeting the goal ✅.
 
-7,087 returns recorded, indicating possible product or service issues ⚠️.
+    7,087 returns recorded, indicating possible product or service issues ⚠️.
 
 🔹 🎯 Sales vs Target:
 
-Total sales: 1.76M, while the target was 1.85M, leaving a 5% gap ❌.
+    Total sales: 1.76M, while the target was 1.85M, leaving a 5% gap ❌.
 
-Requires a sales boost to meet the target 📈.
+    Requires a sales boost to meet the target 📈.
 
                                                   🚀 Recommendations:
                                                   
